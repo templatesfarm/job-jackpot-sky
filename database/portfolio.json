@@ -88,11 +88,6 @@
         "id": "1740395765849",
         "name": "AWS",
         "rating": 5
-      },
-      {
-        "id": "1742135800038",
-        "name": "Github",
-        "rating": 8.5
       }
     ],
     "skillAnimationType": "moving-animation"
