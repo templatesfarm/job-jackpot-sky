@@ -11,8 +11,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className="">
+    <html lang="en" suppressHydrationWarning>
+      <body className="bg-background text-foreground">
         <ThemeProvider
           attribute="class"
           enableSystem
@@ -24,9 +24,7 @@ export default function RootLayout({
               process.env.NEXT_PUBLIC_PORTFOLIO_ACCESS_KEY ?? ""
             }
           >
-            <main className="bg-white dark:bg-black text-foreground">
-              {children}
-            </main>
+            <main>{children}</main>
             <ToasterTopRight />
           </AuthProvider>
         </ThemeProvider>
