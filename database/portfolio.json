@@ -1,9 +1,9 @@
 {
   "personalInfo": {
     "displayName": "",
-    "name": "Maya Pahwa",
+    "name": "yash",
     "contactNumber": "9876543210",
-    "email": "mayapahwa@gmail.com",
+    "email": "mayapahawa@gmail.com",
     "socialMedia": {
       "linkedIn": "https://www.linkedin.com/",
       "github": "https://github.com/",
@@ -13,11 +13,11 @@
       "facebook": ""
     },
     "resumeName": "MayaPahwa-CV.pdf",
-    "gender": "Female"
+    "gender": "Male"
   },
   "heroInfo": {
     "displayName": "",
-    "message": "Hi! I am Maya.",
+    "message": "Hi! I am Yash.",
     "introduction": "Full Stack Engineer, Backend Developer, Frontend Developer, AI Enthusiast",
     "description": "Passionate Full Stack Developer with expertise in designing, developing, and deploying scalable web applications. Skilled in frontend and backend technologies, cloud services, and DevOps practices."
   },
@@ -90,7 +90,7 @@
         "rating": 5
       }
     ],
-    "skillAnimationType": "scale-animation"
+    "skillAnimationType": "moving-animation"
   },
   "achievementsInfo": {
     "displayName": "Achievements",
