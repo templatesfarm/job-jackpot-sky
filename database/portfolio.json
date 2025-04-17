@@ -1,0 +1,186 @@
+{
+  "personalInfo": {
+    "displayName": "",
+    "name": "yash",
+    "contactNumber": "",
+    "email": "mayapahawa@gmail.com",
+    "socialMedia": {
+      "linkedIn": "https://www.linkedin.com/",
+      "github": "https://github.com/",
+      "youtube": "https://www.youtube.com/",
+      "xdotcom": "",
+      "instagram": "https://www.instagram.com/",
+      "facebook": ""
+    },
+    "resumeName": "MayaPahwa-CV.pdf",
+    "gender": "Male"
+  },
+  "heroInfo": {
+    "displayName": "",
+    "message": "Hi! I am Yash.",
+    "introduction": "Full Stack Engineer, Backend Developer, Frontend Developer, AI Enthusiast",
+    "description": "Passionate Full Stack Developer with expertise in designing, developing, and deploying scalable web applications. Skilled in frontend and backend technologies, cloud services, and DevOps practices."
+  },
+  "skillsInfo": {
+    "displayName": "Specialization",
+    "skills": [
+      {
+        "id": "1740395651799",
+        "name": "Angular",
+        "rating": 7
+      },
+      {
+        "id": "1740395657898",
+        "name": "ReactJS",
+        "rating": 5
+      },
+      {
+        "id": "1740395644199",
+        "name": "JavaScript",
+        "rating": 8
+      },
+      {
+        "id": "1740395667382",
+        "name": "Redux",
+        "rating": 8
+      },
+      {
+        "id": "1740395676065",
+        "name": "Tailwind CSS",
+        "rating": 8.5
+      },
+      {
+        "id": "1740395685031",
+        "name": "SASS/SCSS",
+        "rating": 7.5
+      },
+      {
+        "id": "1740395695702",
+        "name": "Node.js",
+        "rating": 7.5
+      },
+      {
+        "id": "1740395714800",
+        "name": "ASP.NET",
+        "rating": 8
+      },
+      {
+        "id": "1740395723281",
+        "name": "MySQL",
+        "rating": 8.5
+      },
+      {
+        "id": "1740395731715",
+        "name": "MongoDB",
+        "rating": 7
+      },
+      {
+        "id": "1740395743548",
+        "name": "Firebase",
+        "rating": 7.5
+      },
+      {
+        "id": "1740395757214",
+        "name": "Git",
+        "rating": 8.5
+      },
+      {
+        "id": "1740395765849",
+        "name": "AWS",
+        "rating": 5
+      }
+    ],
+    "skillAnimationType": "moving-animation"
+  },
+  "achievementsInfo": {
+    "displayName": "Achievements",
+    "listOfAchievements": [
+      {
+        "id": "1740396513085",
+        "text": "Recognized as a Top 10 Finalist in the GitHub Open Source Challenge for contributing to large-scale full-stack projects and optimizing existing frameworks.",
+        "type": "award"
+      },
+      {
+        "id": "1740396546601",
+        "text": "Achieved MongoDB Certified Developer status, showcasing advanced knowledge of NoSQL database design, indexing, and query optimization.",
+        "type": "certificate"
+      },
+      {
+        "id": "1740396554434",
+        "text": "Earned AWS Certified Developer – Associate, demonstrating expertise in deploying and managing full-stack applications using AWS cloud services.",
+        "type": "certificate"
+      }
+    ]
+  },
+  "projectsInfo": {
+    "displayName": "Timeline",
+    "projects": [
+      {
+        "timeline": "Jul'19 – Dec'22",
+        "projectName": " E-commerce Web Platform",
+        "headline1": "Built and optimized a high-traffic e-commerce platform.",
+        "headline2": "Developed a microservices architecture for scalability.",
+        "designation": "Software Engineer (Full Stack Developer)",
+        "link": {
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
+        },
+        "skills": "React.js, Node.js, MongoDB, Docker, AWS",
+        "companyName": "Infosys",
+        "images": [
+          {
+            "fileName": "fs1.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs1.png"
+          },
+          {
+            "fileName": "fs4.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs4.png"
+          },
+          {
+            "fileName": "fs5.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs5.png"
+          }
+        ],
+        "rank": "2",
+        "id": "4069c2ee-e871-40f3-ac5e-cd219a2cf643"
+      },
+      {
+        "id": "d177c8eb-0846-4958-8536-9ffccf52b085",
+        "timeline": "2015-17",
+        "projectName": "Intuit Quickboo",
+        "headline1": "Currently pursuing B.Tech in Computer Science.",
+        "headline2": "Built AI-powered customer recommendation systems, improving conversion rates by 18%. Developed real-time fraud detection algorithms using machine learning and NLP, reducing fraud cases by 35%. Optimized supply chain forecasting models, cutting logistics costs by 20%.",
+        "designation": "Project Manager",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "skills": "Big Data, AWS, Python, Deep Learning, NLP",
+        "companyName": "",
+        "images": []
+      }
+    ]
+  },
+  "qualificationInfo": {
+    "displayName": "Qualifications",
+    "qualifications": [
+      {
+        "timeline": "2015-2019",
+        "courseName": " Bachelor of Technology (B.Tech)",
+        "instituteName": "Indian Institute of Technology (IIT) Bombay",
+        "specializedIn": "Computer Science",
+        "yearPassout": "2019",
+        "headline1": "Graduated with First-Class Distinction in B.Tech CSE.",
+        "headline2": "Won Hackathon at IIT Bombay (1st Prize).",
+        "cgpa": "9.2",
+        "link": {
+          "linkText": "Degree",
+          "linkUrl": "https://github.com/"
+        },
+        "images": [],
+        "rank": "3",
+        "id": "eecd394b-c203-4127-85f3-f9d39deecc80"
+      }
+    ]
+  }
+}
