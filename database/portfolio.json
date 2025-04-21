@@ -1,9 +1,9 @@
 {
   "personalInfo": {
     "displayName": "",
-    "name": "yash",
+    "name": "Roy Arora",
     "contactNumber": "",
-    "email": "mayapahawa@gmail.com",
+    "email": "royarora@gmail.com",
     "socialMedia": {
       "linkedIn": "https://www.linkedin.com/",
       "github": "https://github.com/",
@@ -12,12 +12,12 @@
       "instagram": "https://www.instagram.com/",
       "facebook": ""
     },
-    "resumeName": "MayaPahwa-CV.pdf",
+    "resumeName": "RoyArora-CV.pdf",
     "gender": "Male"
   },
   "heroInfo": {
     "displayName": "",
-    "message": "Hi! I am Yash.",
+    "message": "Hi! I am Roy.",
     "introduction": "Full Stack Engineer, Backend Developer, Frontend Developer, AI Enthusiast",
     "description": "Passionate Full Stack Developer with expertise in designing, developing, and deploying scalable web applications. Skilled in frontend and backend technologies, cloud services, and DevOps practices."
   },
