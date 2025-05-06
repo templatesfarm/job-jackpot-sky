@@ -10,6 +10,7 @@ import { useEffect } from "react";
 import { ApplyChangesButton } from "@/components/ApplyChangesButton";
 import { ScrollProgressView } from "portfolioui";
 import { Achievements } from "../components/portfolio/Achievements";
+import ResumeAIChatbot from "@/components/chatbot-component";
 
 interface HomePageProps {
   portfolio: PortfolioType;
@@ -35,6 +36,7 @@ export default function HomePage({ portfolio, url }: HomePageProps) {
         <Skills />
         <Projects />
         <Achievements />
+        <ResumeAIChatbot />
         <Footer />
       </div>
     </div>
