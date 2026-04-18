@@ -220,9 +220,10 @@
     "industry": "CONSUMER PRODUCTIS",
     "stockName": "Titan Company",
     "label": "D40",
-    "ath": 4378.39,
-    "athDate": "XX-01-2024",
-    "stockSymbol": "TITAN"
+    "ath": 4525.9,
+    "athDate": "18-04-2026",
+    "stockSymbol": "TITAN",
+    "updatedAt": "2026-04-18T18:13:14.596Z"
   },
   "6806c58f-5330-4a3b-aae6-fc0db13de1d1": {
     "industry": "CONSUMER PRODUCTIS",
