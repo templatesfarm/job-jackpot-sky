@@ -333,9 +333,10 @@
     "industry": "Capital Market",
     "stockName": "BSE Limited",
     "label": "D40 NEXT",
-    "ath": 3341.3,
-    "athDate": "13-04-2026",
-    "stockSymbol": "BSE"
+    "ath": 3531.5,
+    "athDate": "18-04-2026",
+    "stockSymbol": "BSE",
+    "updatedAt": "2026-04-18T18:14:16.258Z"
   },
   "ecc70a24-60a5-43be-abef-3fc2648eb778": {
     "industry": "NBFC",
@@ -373,9 +374,10 @@
     "industry": "NBFC",
     "stockName": "MCX",
     "label": "D40 NEXT",
-    "ath": 2776.4,
-    "athDate": "13-04-2026",
-    "stockSymbol": "MCX"
+    "ath": 2856.1,
+    "athDate": "18-04-2026",
+    "stockSymbol": "MCX",
+    "updatedAt": "2026-04-18T18:14:16.258Z"
   },
   "ce8b3a20-42b8-41d3-92ea-9b1f6ddc9a71": {
     "industry": "CEMENT",
