@@ -493,7 +493,9 @@
     "label": "D40 NEXT",
     "ath": 878,
     "athDate": "28-04-2022",
-    "stockSymbol": "AWL"
+    "stockSymbol": "AWL",
+    "isFavorite": true,
+    "updatedAt": "2026-04-18T18:59:21.990Z"
   },
   "979a6de0-6abc-4b9a-a88f-baea408c877d": {
     "industry": "CONSUMER PRODUCTIS",
