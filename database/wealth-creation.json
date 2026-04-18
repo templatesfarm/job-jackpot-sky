@@ -91,9 +91,10 @@
     "industry": "NON-BANKING",
     "stockName": "Nippon Life India Asset Management",
     "label": "D40",
-    "ath": 1009,
-    "athDate": "05-01-2026",
-    "stockSymbol": "NAM-INDIA"
+    "ath": 1015.05,
+    "athDate": "18-04-2026",
+    "stockSymbol": "NAM-INDIA",
+    "updatedAt": "2026-04-18T18:12:36.979Z"
   },
   "3c57229f-4566-4561-85df-da0be60247f4": {
     "industry": "NON-BANKING",
