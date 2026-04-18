@@ -417,7 +417,9 @@
     "label": "D40 NEXT",
     "ath": 10691,
     "athDate": "13-06-2025",
-    "stockSymbol": "ASTRAZEN"
+    "stockSymbol": "ASTRAZEN",
+    "isFavorite": true,
+    "updatedAt": "2026-04-18T18:51:46.753Z"
   },
   "aaf34e8b-7072-4339-b69d-46085d9953b2": {
     "industry": "PHARMA",
