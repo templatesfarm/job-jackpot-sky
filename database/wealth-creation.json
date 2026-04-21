@@ -410,8 +410,8 @@
     "ath": 1303.15,
     "athDate": "13-06-2018",
     "stockSymbol": "QUESS",
-    "isFavorite": false,
-    "updatedAt": "2026-04-21T13:44:55.426Z"
+    "isFavorite": true,
+    "updatedAt": "2026-04-21T13:46:30.648Z"
   },
   "655a7375-259c-4da5-befb-43e18d37bc80": {
     "industry": "PHARMA",
