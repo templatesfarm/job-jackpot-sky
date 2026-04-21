@@ -287,7 +287,9 @@
     "label": "D40",
     "ath": 10524.95,
     "athDate": "10-06-2024",
-    "stockSymbol": "SANOFI"
+    "stockSymbol": "SANOFI",
+    "isFavorite": true,
+    "updatedAt": "2026-04-21T14:00:36.892Z"
   },
   "135c4ba6-d179-4183-be25-b399157b1ae6": {
     "industry": "PAINT",
