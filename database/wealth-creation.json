@@ -453,7 +453,9 @@
     "label": "D40 NEXT",
     "ath": 2122.75,
     "athDate": "15-09-2021",
-    "stockSymbol": "LALPATHLAB"
+    "stockSymbol": "LALPATHLAB",
+    "isFavorite": true,
+    "updatedAt": "2026-04-23T16:51:25.630Z"
   },
   "45ae69b8-7611-4c1e-b152-ba7361b939ce": {
     "industry": "Healthcare",
