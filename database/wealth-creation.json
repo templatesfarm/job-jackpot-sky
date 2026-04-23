@@ -456,12 +456,14 @@
     "stockSymbol": "LALPATHLAB"
   },
   "45ae69b8-7611-4c1e-b152-ba7361b939ce": {
-    "industry": "CHEMICAL",
+    "industry": "Healthcare",
     "stockName": "Apollo Hospitals",
     "label": "D40 NEXT",
     "ath": 8099.5,
     "athDate": "23-10-2025",
-    "stockSymbol": "APOLLOHOSP"
+    "stockSymbol": "APOLLOHOSP",
+    "isFavorite": false,
+    "updatedAt": "2026-04-23T16:48:17.703Z"
   },
   "ef54d4be-243f-4493-898a-c5b142f7d526": {
     "industry": "CHEMICAL",
