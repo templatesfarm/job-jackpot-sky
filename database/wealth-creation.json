@@ -329,7 +329,9 @@
     "label": "D40 NEXT",
     "ath": 1989.8,
     "athDate": "17-12-2024",
-    "stockSymbol": "CDSL"
+    "stockSymbol": "CDSL",
+    "isFavorite": true,
+    "updatedAt": "2026-04-23T14:40:23.239Z"
   },
   "483264ae-eb94-40d8-9eb8-318333dcfd92": {
     "industry": "Capital Market",
