@@ -648,5 +648,17 @@
     "ath": 681.12,
     "athDate": "29-07-2024",
     "stockSymbol": "VBL"
+  },
+  "0cb674eb-bf14-49cf-b030-403d005016cf": {
+    "industry": "Banking",
+    "stockName": "Punjab National Bank",
+    "label": "D200",
+    "ath": 279.98,
+    "athDate": "30-04-2024",
+    "stockSymbol": "PNB",
+    "isFavorite": false,
+    "updatedAt": "2026-04-23T16:31:30.205Z",
+    "id": "0cb674eb-bf14-49cf-b030-403d005016cf",
+    "createdAt": "2026-04-23T16:31:30.206Z"
   }
 }
