@@ -6,7 +6,8 @@
     "label": "D40",
     "ath": 4440,
     "athDate": "13-01-2025",
-    "stockSymbol": "LT"
+    "stockSymbol": "LT",
+    "screenerUrl": "https://www.screener.in/company/LT/consolidated/"
   },
   "e99da64e-00b1-4eaa-a1e7-647b9a4d8ba6": {
     "industry": "Oil Gas & Fuels",
@@ -15,7 +16,8 @@
     "label": "D40",
     "ath": 1611.8,
     "athDate": "04-01-2026",
-    "stockSymbol": "RELIANCE"
+    "stockSymbol": "RELIANCE",
+    "screenerUrl": "https://www.screener.in/company/RELIANCE/consolidated/"
   },
   "2a5eda90-cfbd-4392-a7c3-2d0e244c6c24": {
     "industry": "Banks",
@@ -24,7 +26,8 @@
     "label": "D40",
     "ath": 1234.7,
     "athDate": "24-02-2026",
-    "stockSymbol": "SBIN"
+    "stockSymbol": "SBIN",
+    "screenerUrl": "https://www.screener.in/company/SBIN/consolidated/"
   },
   "d1b95fd9-1c49-4583-bd5f-cb3f20db86a5": {
     "industry": "Banks",
@@ -33,7 +36,8 @@
     "label": "D40",
     "ath": 1020.5,
     "athDate": "19-10-2025",
-    "stockSymbol": "HDFCBANK"
+    "stockSymbol": "HDFCBANK",
+    "screenerUrl": "https://www.screener.in/company/HDFCBANK/consolidated/"
   },
   "d146b3fa-8328-419e-9d93-8fce8bac4a53": {
     "industry": "Banks",
@@ -42,7 +46,8 @@
     "label": "D40",
     "ath": 1500,
     "athDate": "25-07-2025",
-    "stockSymbol": "ICICIBANK"
+    "stockSymbol": "ICICIBANK",
+    "screenerUrl": "https://www.screener.in/company/ICICIBANK/consolidated/"
   },
   "43f51ccd-33ee-406c-b649-aeeff6669573": {
     "industry": "Banks",
@@ -51,7 +56,8 @@
     "label": "D40",
     "ath": 1418.3,
     "athDate": "03-02-2026",
-    "stockSymbol": "AXISBANK"
+    "stockSymbol": "AXISBANK",
+    "screenerUrl": "https://www.screener.in/company/AXISBANK/consolidated/"
   },
   "648065b2-d04c-4ba9-9c63-9bf66622efbe": {
     "industry": "Banks",
@@ -60,7 +66,8 @@
     "label": "D40",
     "ath": 460.38,
     "athDate": "20-04-2025",
-    "stockSymbol": "KOTAKBANK"
+    "stockSymbol": "KOTAKBANK",
+    "screenerUrl": "https://www.screener.in/company/KOTAKBANK/consolidated/"
   },
   "30aaa650-c550-4543-bcb5-37d7a8003718": {
     "industry": "IT - Software",
@@ -69,7 +76,8 @@
     "label": "D40",
     "ath": 2012.2,
     "athDate": "13-01-2025",
-    "stockSymbol": "HCLTECH"
+    "stockSymbol": "HCLTECH",
+    "screenerUrl": "https://www.screener.in/company/HCLTECH/consolidated/"
   },
   "8e5a03af-1990-4c27-af0f-1df6666d60d8": {
     "industry": "IT - Software",
@@ -78,7 +86,8 @@
     "label": "D40",
     "ath": 2006.45,
     "athDate": "13-12-2024",
-    "stockSymbol": "INFY"
+    "stockSymbol": "INFY",
+    "screenerUrl": "https://www.screener.in/company/INFY/consolidated/"
   },
   "a1faf712-a7d8-4936-93d6-53bcb7bc273a": {
     "industry": "IT - Software",
@@ -87,7 +96,8 @@
     "label": "D40",
     "ath": 4581.07,
     "athDate": "XX-08-2024",
-    "stockSymbol": "TCS"
+    "stockSymbol": "TCS",
+    "screenerUrl": "https://www.screener.in/company/TCS/consolidated/"
   },
   "3248f5ac-605d-4e72-a7a3-13972d7d1f67": {
     "industry": "Asset Management",
@@ -96,7 +106,8 @@
     "label": "D40",
     "ath": 2967.25,
     "athDate": "12-10-2025",
-    "stockSymbol": "HDFCAMC"
+    "stockSymbol": "HDFCAMC",
+    "screenerUrl": "https://www.screener.in/company/HDFCAMC/consolidated/"
   },
   "cfa18dc6-f2d1-414e-95f3-98b08e9f063a": {
     "industry": "Asset Management",
@@ -106,7 +117,7 @@
     "ath": 1015.05,
     "athDate": "18-04-2026",
     "stockSymbol": "NAM-INDIA",
-    "updatedAt": "2026-04-18T18:12:36.979Z"
+    "screenerUrl": "https://www.screener.in/company/NAM-INDIA/consolidated/"
   },
   "3c57229f-4566-4561-85df-da0be60247f4": {
     "industry": "Life Insurance",
@@ -115,7 +126,8 @@
     "label": "D40",
     "ath": 820.75,
     "athDate": "30-06-2025",
-    "stockSymbol": "HDFCLIFE"
+    "stockSymbol": "HDFCLIFE",
+    "screenerUrl": "https://www.screener.in/company/HDFCLIFE/consolidated/"
   },
   "babb7eb8-c885-454e-af76-b7dfbab7260b": {
     "industry": "Life Insurance",
@@ -124,7 +136,8 @@
     "label": "D40",
     "ath": 796.8,
     "athDate": "01-10-2024",
-    "stockSymbol": "ICICIPRULI"
+    "stockSymbol": "ICICIPRULI",
+    "screenerUrl": "https://www.screener.in/company/ICICIPRULI/consolidated/"
   },
   "4389ba1e-db7b-4e39-886c-f9b073ed3695": {
     "industry": "General Insurance",
@@ -133,7 +146,8 @@
     "label": "D40",
     "ath": 2301.9,
     "athDate": "22-09-2024",
-    "stockSymbol": "ICICIGI"
+    "stockSymbol": "ICICIGI",
+    "screenerUrl": "https://www.screener.in/company/ICICIGI/consolidated/"
   },
   "96d7d6ac-3cec-4023-8190-d16128e3e700": {
     "industry": "Finance - Investments",
@@ -142,7 +156,8 @@
     "label": "D40",
     "ath": 2195,
     "athDate": "23-10-2025",
-    "stockSymbol": "BAJAJFINSV"
+    "stockSymbol": "BAJAJFINSV",
+    "screenerUrl": "https://www.screener.in/company/BAJAJFINSV/consolidated/"
   },
   "b8301f92-4eb1-485f-9cbf-c617f2aad4a0": {
     "industry": "Finance - Investments",
@@ -151,7 +166,8 @@
     "label": "D40",
     "ath": 14763,
     "athDate": "18-08-2025",
-    "stockSymbol": "BAJAJHLDNG"
+    "stockSymbol": "BAJAJHLDNG",
+    "screenerUrl": "https://www.screener.in/company/BAJAJHLDNG/consolidated/"
   },
   "7ee60c8f-5322-4287-a526-cf450260e698": {
     "industry": "Finance - NBFC",
@@ -160,7 +176,8 @@
     "label": "D40",
     "ath": 1103,
     "athDate": "23-10-2025",
-    "stockSymbol": "BAJFINANCE"
+    "stockSymbol": "BAJFINANCE",
+    "screenerUrl": "https://www.screener.in/company/BAJFINANCE/consolidated/"
   },
   "d3b46b33-bacb-4a68-8f99-290a4c83fd86": {
     "industry": "FMCG",
@@ -169,7 +186,8 @@
     "label": "D40",
     "ath": 3035,
     "athDate": "23-09-2024",
-    "stockSymbol": "HINDUNILVR"
+    "stockSymbol": "HINDUNILVR",
+    "screenerUrl": "https://www.screener.in/company/HINDUNILVR/consolidated/"
   },
   "6fbf70da-4e54-420c-ab29-5a234a8e44f7": {
     "industry": "FMCG",
@@ -178,7 +196,8 @@
     "label": "D40",
     "ath": 1389,
     "athDate": "27-09-2024",
-    "stockSymbol": "NESTLEIND"
+    "stockSymbol": "NESTLEIND",
+    "screenerUrl": "https://www.screener.in/company/NESTLEIND/consolidated/"
   },
   "6968a4c8-b98c-4643-97ba-616ef94c014b": {
     "industry": "FMCG",
@@ -187,7 +206,8 @@
     "label": "D40",
     "ath": 19250,
     "athDate": "20-11-2023",
-    "stockSymbol": "PGHH"
+    "stockSymbol": "PGHH",
+    "screenerUrl": "https://www.screener.in/company/PGHH/consolidated/"
   },
   "3a1b6ac5-9236-44bc-b5f2-669aa1e0fcc9": {
     "industry": "Chemicals",
@@ -196,7 +216,8 @@
     "label": "D40",
     "ath": 1707.5,
     "athDate": "29-09-2024",
-    "stockSymbol": "PIDILITIND"
+    "stockSymbol": "PIDILITIND",
+    "screenerUrl": "https://www.screener.in/company/PIDILITIND/consolidated/"
   },
   "4bab0664-9039-4ab4-ba63-95351bd7232a": {
     "industry": "FMCG",
@@ -205,7 +226,8 @@
     "label": "D40",
     "ath": 3890,
     "athDate": "XX-XX-2024",
-    "stockSymbol": "COLPAL"
+    "stockSymbol": "COLPAL",
+    "screenerUrl": "https://www.screener.in/company/COLPAL/consolidated/"
   },
   "7da8b442-9745-42f6-a414-7bbab6b5f55a": {
     "industry": "FMCG",
@@ -214,7 +236,8 @@
     "label": "D40",
     "ath": 672,
     "athDate": "15-09-2024",
-    "stockSymbol": "DABUR"
+    "stockSymbol": "DABUR",
+    "screenerUrl": "https://www.screener.in/company/DABUR/consolidated/"
   },
   "51ead9bb-39f5-43ba-a312-7387cc7aa17a": {
     "industry": "FMCG",
@@ -223,7 +246,8 @@
     "label": "D40",
     "ath": 11500,
     "athDate": "XX-XX-2024",
-    "stockSymbol": "GILLETTE"
+    "stockSymbol": "GILLETTE",
+    "screenerUrl": "https://www.screener.in/company/GILLETTE/consolidated/"
   },
   "80be71dc-2116-4bfd-9b4b-7dc6122ca24d": {
     "industry": "FMCG",
@@ -232,7 +256,8 @@
     "label": "D40",
     "ath": 814,
     "athDate": "08-05-2025",
-    "stockSymbol": "MARICO"
+    "stockSymbol": "MARICO",
+    "screenerUrl": "https://www.screener.in/company/MARICO/consolidated/"
   },
   "12d358fc-d2d2-43f0-ac70-5735cead52c6": {
     "industry": "FMCG",
@@ -241,7 +266,8 @@
     "label": "D40",
     "ath": 528.5,
     "athDate": "XX-09-2024",
-    "stockSymbol": "ITC"
+    "stockSymbol": "ITC",
+    "screenerUrl": "https://www.screener.in/company/ITC/consolidated/"
   },
   "7e0b367d-7416-40b2-8f17-ee70c8588aa7": {
     "industry": "Gems & Jewellery",
@@ -251,7 +277,7 @@
     "ath": 4525.9,
     "athDate": "18-04-2026",
     "stockSymbol": "TITAN",
-    "updatedAt": "2026-04-18T18:13:14.596Z"
+    "screenerUrl": "https://www.screener.in/company/TITAN/consolidated/"
   },
   "6806c58f-5330-4a3b-aae6-fc0db13de1d1": {
     "industry": "Textiles - Apparel",
@@ -260,7 +286,8 @@
     "label": "D40",
     "ath": 54349.1,
     "athDate": "21-10-2022",
-    "stockSymbol": "PAGEIND"
+    "stockSymbol": "PAGEIND",
+    "screenerUrl": "https://www.screener.in/company/PAGEIND/consolidated/"
   },
   "269bc61d-8ac2-47cd-9c98-1b82baa36194": {
     "industry": "Footwear",
@@ -269,7 +296,8 @@
     "label": "D40",
     "ath": 2262,
     "athDate": "14-11-2021",
-    "stockSymbol": "BATAINDIA"
+    "stockSymbol": "BATAINDIA",
+    "screenerUrl": "https://www.screener.in/company/BATAINDIA/consolidated/"
   },
   "680379e1-8fff-4aca-b4a0-8b15d5f70f69": {
     "industry": "Consumer Electronics",
@@ -278,7 +306,8 @@
     "label": "D40",
     "ath": 2104.95,
     "athDate": "23-09-2024",
-    "stockSymbol": "HAVELLS"
+    "stockSymbol": "HAVELLS",
+    "screenerUrl": "https://www.screener.in/company/HAVELLS/consolidated/"
   },
   "3ecd396c-cf9b-4636-9cb2-bf17dd9caf00": {
     "industry": "Consumer Electronics",
@@ -287,7 +316,8 @@
     "label": "D40",
     "ath": 1946.2,
     "athDate": "20-09-2024",
-    "stockSymbol": "VOLTAS"
+    "stockSymbol": "VOLTAS",
+    "screenerUrl": "https://www.screener.in/company/VOLTAS/consolidated/"
   },
   "3fbcc5e4-9a08-4213-bae2-8dd9e809c4c1": {
     "industry": "Pharmaceuticals",
@@ -296,7 +326,8 @@
     "label": "D40",
     "ath": 3515.7,
     "athDate": "05-06-2025",
-    "stockSymbol": "GLAXO"
+    "stockSymbol": "GLAXO",
+    "screenerUrl": "https://www.screener.in/company/GLAXO/consolidated/"
   },
   "cf6cb95d-c80d-4e2b-82c3-b0ea0cd97322": {
     "industry": "Pharmaceuticals",
@@ -305,7 +336,8 @@
     "label": "D40",
     "ath": 37000,
     "athDate": "27-06-2025",
-    "stockSymbol": "ABBOTINDIA"
+    "stockSymbol": "ABBOTINDIA",
+    "screenerUrl": "https://www.screener.in/company/ABBOTINDIA/consolidated/"
   },
   "8cd9623c-efb2-42eb-8b75-55f59a832173": {
     "industry": "Pharmaceuticals",
@@ -314,7 +346,8 @@
     "label": "D40",
     "ath": 6451.15,
     "athDate": "02-09-2024",
-    "stockSymbol": "PFIZER"
+    "stockSymbol": "PFIZER",
+    "screenerUrl": "https://www.screener.in/company/PFIZER/consolidated/"
   },
   "69ef48c3-ff53-44ce-b405-f944ae307e1d": {
     "industry": "Pharmaceuticals",
@@ -324,8 +357,7 @@
     "ath": 10524.95,
     "athDate": "10-06-2024",
     "stockSymbol": "SANOFI",
-    "isFavorite": false,
-    "updatedAt": "2026-04-21T14:00:46.958Z"
+    "screenerUrl": "https://www.screener.in/company/SANOFI/consolidated/"
   },
   "135c4ba6-d179-4183-be25-b399157b1ae6": {
     "industry": "Paints",
@@ -334,7 +366,8 @@
     "label": "D40",
     "ath": 3590,
     "athDate": "10-01-2022",
-    "stockSymbol": "ASIANPAINT"
+    "stockSymbol": "ASIANPAINT",
+    "screenerUrl": "https://www.screener.in/company/ASIANPAINT/consolidated/"
   },
   "7cfad2fa-804b-4cb2-b207-ed45bc8ca29b": {
     "industry": "Paints",
@@ -343,7 +376,8 @@
     "label": "D40",
     "ath": 727.46,
     "athDate": "18-07-2021",
-    "stockSymbol": "BERGEPAINT"
+    "stockSymbol": "BERGEPAINT",
+    "screenerUrl": "https://www.screener.in/company/BERGEPAINT/consolidated/"
   },
   "dab3783c-09e7-4e44-9f19-b4f3942cfc3a": {
     "industry": "Automobiles",
@@ -352,7 +386,8 @@
     "label": "D40",
     "ath": 12774,
     "athDate": "27-09-2024",
-    "stockSymbol": "BAJAJ-AUTO"
+    "stockSymbol": "BAJAJ-AUTO",
+    "screenerUrl": "https://www.screener.in/company/BAJAJ-AUTO/consolidated/"
   },
   "6ce09f42-2278-4e84-a11c-7fc325cd6732": {
     "industry": "Automobiles",
@@ -361,7 +396,8 @@
     "label": "D40",
     "ath": 17370,
     "athDate": "05-01-2026",
-    "stockSymbol": "MARUTI"
+    "stockSymbol": "MARUTI",
+    "screenerUrl": "https://www.screener.in/company/MARUTI/consolidated/"
   },
   "2d9bec11-027c-4321-a6da-cbd5d20404d7": {
     "industry": "Capital Market",
@@ -371,380 +407,10 @@
     "ath": 1989.8,
     "athDate": "17-12-2024",
     "stockSymbol": "CDSL",
-    "isFavorite": true,
-    "updatedAt": "2026-04-23T14:40:23.239Z"
+    "screenerUrl": "https://www.screener.in/company/CDSL/consolidated/"
   },
   "483264ae-eb94-40d8-9eb8-318333dcfd92": {
     "industry": "Capital Market",
     "marketCap": "Large Cap",
     "stockName": "BSE Limited",
-    "label": "D40 NEXT",
-    "ath": 3531.5,
-    "athDate": "18-04-2026",
-    "stockSymbol": "BSE",
-    "updatedAt": "2026-04-18T18:14:16.258Z"
-  },
-  "ecc70a24-60a5-43be-abef-3fc2648eb778": {
-    "industry": "Finance - NBFC",
-    "marketCap": "Large Cap",
-    "stockName": "Jio Financial Services",
-    "label": "D40 NEXT",
-    "ath": 394.7,
-    "athDate": "23-04-2024",
-    "stockSymbol": "JIOFIN"
-  },
-  "6775ad60-b8d7-4b45-b0e3-6c19a0ccb10a": {
-    "industry": "Finance - NBFC",
-    "marketCap": "Mid Cap",
-    "stockName": "Angel One",
-    "label": "D40 NEXT",
-    "ath": 389.6,
-    "athDate": "09-01-2024",
-    "stockSymbol": "ANGELONE"
-  },
-  "1e41fef7-6d94-4fc4-a433-28e22a67cfbf": {
-    "industry": "Asset Management",
-    "marketCap": "Mid Cap",
-    "stockName": "CAMS",
-    "label": "D40 NEXT",
-    "ath": 1073.5,
-    "athDate": "12-12-2024",
-    "stockSymbol": "CAMS"
-  },
-  "2bf0a9fc-2374-433a-877a-1df996b8ce50": {
-    "industry": "Finance - NBFC",
-    "marketCap": "Large Cap",
-    "stockName": "Bajaj Housing Finance",
-    "label": "D40 NEXT2",
-    "ath": 188.5,
-    "athDate": "18-09-2024",
-    "stockSymbol": "BAJAJHFL",
-    "isFavorite": true,
-    "updatedAt": "2026-04-23T17:08:35.060Z"
-  },
-  "b7f8bfec-2f78-45e0-9f87-5558543a639a": {
-    "industry": "Capital Market",
-    "marketCap": "Mid Cap",
-    "stockName": "MCX",
-    "label": "D40 NEXT",
-    "ath": 2856.1,
-    "athDate": "18-04-2026",
-    "stockSymbol": "MCX",
-    "updatedAt": "2026-04-18T18:14:16.258Z"
-  },
-  "ce8b3a20-42b8-41d3-92ea-9b1f6ddc9a71": {
-    "industry": "Cement",
-    "marketCap": "Large Cap",
-    "stockName": "UltraTech Cement",
-    "label": "D40 NEXT",
-    "ath": 13110,
-    "athDate": "10-02-2026",
-    "stockSymbol": "ULTRACEMCO"
-  },
-  "e3c0e0bc-87e8-45d8-93f2-117986510259": {
-    "industry": "Cement",
-    "marketCap": "Large Cap",
-    "stockName": "ACC Limited",
-    "label": "D40 NEXT",
-    "ath": 2844,
-    "athDate": "02-07-2024",
-    "stockSymbol": "ACC"
-  },
-  "9be77daa-381a-48f0-8cc3-e5bd73776347": {
-    "industry": "Commercial Services",
-    "marketCap": "Small Cap",
-    "stockName": "TeamLease Services",
-    "label": "D40 NEXT",
-    "ath": 5550,
-    "athDate": "11-10-2021",
-    "stockSymbol": "TEAMLEASE",
-    "isFavorite": true,
-    "updatedAt": "2026-04-23T16:47:46.742Z"
-  },
-  "0772ad55-48c7-40fb-b786-e5ff7fdf63b9": {
-    "industry": "Commercial Services",
-    "marketCap": "Mid Cap",
-    "stockName": "Quess Corp",
-    "label": "D40 NEXT",
-    "ath": 1303.15,
-    "athDate": "13-06-2018",
-    "stockSymbol": "QUESS",
-    "isFavorite": false,
-    "updatedAt": "2026-04-23T14:46:15.722Z"
-  },
-  "655a7375-259c-4da5-befb-43e18d37bc80": {
-    "industry": "Pharmaceuticals",
-    "marketCap": "Mid Cap",
-    "stockName": "AstraZeneca",
-    "label": "D40 NEXT",
-    "ath": 10691,
-    "athDate": "13-06-2025",
-    "stockSymbol": "ASTRAZEN",
-    "isFavorite": false,
-    "updatedAt": "2026-04-23T14:46:30.196Z"
-  },
-  "aaf34e8b-7072-4339-b69d-46085d9953b2": {
-    "industry": "Pharmaceuticals",
-    "marketCap": "Large Cap",
-    "stockName": "Cipla",
-    "label": "D40 NEXT",
-    "ath": 1702.05,
-    "athDate": "09-10-2024",
-    "stockSymbol": "CIPLA"
-  },
-  "bb226b3e-ba93-4247-80cf-8a004177b842": {
-    "industry": "Pharmaceuticals",
-    "marketCap": "Small Cap",
-    "stockName": "Eris Lifesciences",
-    "label": "D40 NEXT",
-    "ath": 1910,
-    "athDate": "12-06-2025",
-    "stockSymbol": "ERIS"
-  },
-  "2685662c-7136-43a0-ac79-421dd786c683": {
-    "industry": "Healthcare Services",
-    "marketCap": "Mid Cap",
-    "stockName": "Dr. Lal PathLabs",
-    "label": "D40 NEXT",
-    "ath": 2122.75,
-    "athDate": "15-09-2021",
-    "stockSymbol": "LALPATHLAB",
-    "isFavorite": true,
-    "updatedAt": "2026-04-23T16:51:25.630Z"
-  },
-  "45ae69b8-7611-4c1e-b152-ba7361b939ce": {
-    "industry": "Healthcare Services",
-    "marketCap": "Large Cap",
-    "stockName": "Apollo Hospitals",
-    "label": "D40 NEXT",
-    "ath": 8099.5,
-    "athDate": "23-10-2025",
-    "stockSymbol": "APOLLOHOSP",
-    "isFavorite": false,
-    "updatedAt": "2026-04-23T16:48:17.703Z"
-  },
-  "ef54d4be-243f-4493-898a-c5b142f7d526": {
-    "industry": "Healthcare Services",
-    "marketCap": "Mid Cap",
-    "stockName": "Global Health (Medanta)",
-    "label": "D40 NEXT",
-    "ath": 1513.9,
-    "athDate": "16-02-2024",
-    "stockSymbol": "MEDANTA"
-  },
-  "275126a6-8030-47ef-a3fc-9f335c2ce602": {
-    "industry": "Healthcare Services",
-    "marketCap": "Mid Cap",
-    "stockName": "Fortis Healthcare",
-    "label": "D40 NEXT",
-    "ath": 1104.3,
-    "athDate": "17-10-2025",
-    "stockSymbol": "FORTIS"
-  },
-  "f9b8da4a-e8ca-4f15-a1c9-5d7b2c57349c": {
-    "industry": "Infrastructure",
-    "marketCap": "Large Cap",
-    "stockName": "Adani Ports",
-    "label": "D40 NEXT",
-    "ath": 1621.4,
-    "athDate": "03-06-2024",
-    "stockSymbol": "ADANIPORTS"
-  },
-  "2f39e611-45ee-4683-958c-aa51fb49e0f2": {
-    "industry": "Infrastructure",
-    "marketCap": "Large Cap",
-    "stockName": "JSW Infrastructure",
-    "label": "D40 NEXT",
-    "ath": 360.95,
-    "athDate": "04-07-2024",
-    "stockSymbol": "JSWINFRA"
-  },
-  "4cc63010-9e5e-4957-9147-c36242989ec3": {
-    "industry": "FMCG",
-    "marketCap": "Mid Cap",
-    "stockName": "Adani Wilmar",
-    "label": "D40 NEXT",
-    "ath": 878,
-    "athDate": "28-04-2022",
-    "stockSymbol": "AWL",
-    "isFavorite": false,
-    "updatedAt": "2026-04-23T14:46:17.893Z"
-  },
-  "979a6de0-6abc-4b9a-a88f-baea408c877d": {
-    "industry": "FMCG",
-    "marketCap": "Large Cap",
-    "stockName": "Godrej Consumer Products",
-    "label": "D40 NEXT",
-    "ath": 1541.85,
-    "athDate": "11-09-2024",
-    "stockSymbol": "GODREJCP"
-  },
-  "2b351e25-64c0-47ef-b5fa-7839a2ac956e": {
-    "industry": "Automobiles",
-    "marketCap": "Large Cap",
-    "stockName": "Mahindra & Mahindra",
-    "label": "D40 NEXT",
-    "ath": 3839.9,
-    "athDate": "05-01-2026",
-    "stockSymbol": "M&M"
-  },
-  "27de1b55-1067-4db5-be03-c2c0e62cce42": {
-    "industry": "Consumer Electronics",
-    "marketCap": "Large Cap",
-    "stockName": "Dixon Technologies",
-    "label": "D40 NEXT",
-    "ath": 19148.9,
-    "athDate": "17-12-2024",
-    "stockSymbol": "DIXON"
-  },
-  "fa6543e0-f571-4f10-9330-6c6cdcc8144b": {
-    "industry": "Tiles & Ceramics",
-    "marketCap": "Mid Cap",
-    "stockName": "Kajaria Ceramics",
-    "label": "D40 NEXT",
-    "ath": 1580,
-    "athDate": "19-10-2021",
-    "stockSymbol": "KAJARIACER"
-  },
-  "3bac77b7-9db0-4a56-ae5c-2b3e37a3a9ac": {
-    "industry": "Industrial Electronics",
-    "marketCap": "Mid Cap",
-    "stockName": "Honeywell Automation",
-    "label": "D40 NEXT",
-    "ath": 59994,
-    "athDate": "26-06-2024",
-    "stockSymbol": "HONAUT"
-  },
-  "55c49564-1edf-4dcb-8dd4-1ff390840a15": {
-    "industry": "Hotels & Tourism",
-    "marketCap": "Large Cap",
-    "stockName": "Indian Hotels Company",
-    "label": "D40 NEXT",
-    "ath": 894.9,
-    "athDate": "30-12-2024",
-    "stockSymbol": "INDHOTEL"
-  },
-  "0fc6fe16-6e68-475b-b6ed-02dfb7178707": {
-    "industry": "Hotels & Tourism",
-    "marketCap": "Small Cap",
-    "stockName": "ITC Hotels",
-    "label": "D40 NEXT",
-    "ath": 261.62,
-    "athDate": "21-07-2025",
-    "stockSymbol": "ITCHOTELS"
-  },
-  "587af28e-f653-4a7c-b9f5-d9f4c116ca54": {
-    "industry": "Retailing",
-    "marketCap": "Large Cap",
-    "stockName": "Avenue Supermarts",
-    "label": "D40 NEXT",
-    "ath": 5900,
-    "athDate": "18-10-2021",
-    "stockSymbol": "DMART"
-  },
-  "c21a8c39-8ecb-43cb-9326-58807fe55362": {
-    "industry": "Automobiles",
-    "marketCap": "Mid Cap",
-    "stockName": "Tata Motors Passengers Vehicle",
-    "label": "D40 NEXT",
-    "ath": 713.73,
-    "athDate": "01-07-2024",
-    "stockSymbol": "TMPV"
-  },
-  "4056d263-0c87-4c00-bf7f-50cca7156082": {
-    "industry": "Footwear",
-    "marketCap": "Mid Cap",
-    "stockName": "Relaxo Footwears",
-    "label": "D40 NEXT",
-    "ath": 1448,
-    "athDate": "04-11-2021",
-    "stockSymbol": "RELAXO",
-    "isFavorite": false,
-    "updatedAt": "2026-04-23T14:46:13.634Z"
-  },
-  "87210c20-ed30-4559-8982-7d505b77c1ba": {
-    "industry": "Automobiles",
-    "marketCap": "Large Cap",
-    "stockName": "Hyundai Motor India",
-    "label": "D40 NEXT",
-    "ath": 2890,
-    "athDate": "22-09-2025",
-    "stockSymbol": "HYUNDAI"
-  },
-  "af8eadec-5fb5-4ce9-9293-ca4890387c80": {
-    "industry": "Consumer Electronics",
-    "marketCap": "Mid Cap",
-    "stockName": "Blue Star",
-    "label": "D40 NEXT",
-    "ath": 2417,
-    "athDate": "06-01-2025",
-    "stockSymbol": "BLUESTARCO"
-  },
-  "c05fca28-58c7-41a3-b8d5-b264e6de7146": {
-    "industry": "Auto Ancillaries",
-    "marketCap": "Large Cap",
-    "stockName": "Bosch Limited",
-    "label": "D40 NEXT",
-    "ath": 41945,
-    "athDate": "10-09-2025",
-    "stockSymbol": "BOSCHLTD"
-  },
-  "0b3cdd8c-26ac-4216-aed0-f6c2c1c3e623": {
-    "industry": "Automobiles",
-    "marketCap": "Large Cap",
-    "stockName": "Eicher Motors",
-    "label": "D40 NEXT",
-    "ath": 8230,
-    "athDate": "27-02-2026",
-    "stockSymbol": "EICHERMOT"
-  },
-  "d07a10c4-bd04-4262-8332-e6712b7d993d": {
-    "industry": "Liquor",
-    "marketCap": "Large Cap",
-    "stockName": "United Spirits",
-    "label": "D40 NEXT",
-    "ath": 1700,
-    "athDate": "03-01-2025",
-    "stockSymbol": "UNITDSPR"
-  },
-  "48ff6315-370d-4efd-927f-8c761792a969": {
-    "industry": "Liquor",
-    "marketCap": "Mid Cap",
-    "stockName": "Radico Khaitan",
-    "label": "D40 NEXT",
-    "ath": 3591.9,
-    "athDate": "20-11-2025",
-    "stockSymbol": "RADICO"
-  },
-  "46a0eed9-3515-4b91-a8a7-3ce541bb7aa0": {
-    "industry": "Liquor",
-    "marketCap": "Mid Cap",
-    "stockName": "United Breweries",
-    "label": "D40 NEXT",
-    "ath": 2299.7,
-    "athDate": "03-02-2025",
-    "stockSymbol": "UBL"
-  },
-  "a78946b7-5970-4d3f-b3ae-3c6a851abed8": {
-    "industry": "Beverages",
-    "marketCap": "Large Cap",
-    "stockName": "Varun Beverages",
-    "label": "D40 NEXT",
-    "ath": 681.12,
-    "athDate": "29-07-2024",
-    "stockSymbol": "VBL"
-  },
-  "0cb674eb-bf14-49cf-b030-403d005016cf": {
-    "industry": "Banks",
-    "marketCap": "Large Cap",
-    "stockName": "Punjab National Bank",
-    "label": "D200",
-    "ath": 279.98,
-    "athDate": "30-04-2024",
-    "stockSymbol": "PNB",
-    "isFavorite": false,
-    "updatedAt": "2026-04-23T16:31:30.205Z",
-    "id": "0cb674eb-bf14-49cf-b030-403d005016cf",
-    "createdAt": "2026-04-23T16:31:30.206Z"
-  }
-}
+    "label": "D40
