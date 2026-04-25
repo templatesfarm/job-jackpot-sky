@@ -194,10 +194,12 @@
     "marketCap": "Large Cap",
     "stockName": "Nestle India",
     "label": "D40",
-    "ath": 1389,
-    "athDate": "27-09-2024",
+    "ath": 1421,
+    "athDate": "23-04-2026",
     "stockSymbol": "NESTLEIND",
-    "screenerUrl": "https://www.screener.in/company/NESTLEIND/consolidated/"
+    "screenerUrl": "https://www.screener.in/company/NESTLEIND/consolidated/",
+    "isFavorite": false,
+    "updatedAt": "2026-04-25T00:28:49.924Z"
   },
   "6968a4c8-b98c-4643-97ba-616ef94c014b": {
     "industry": "FMCG",
