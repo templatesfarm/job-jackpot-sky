@@ -1,0 +1,98 @@
+{
+  "e7cedf22-e611-468d-b992-6fcda9888ff3": {
+    "symbol": "NSE:NIFTY50-INDEX",
+    "label": "NIFTY",
+    "enabled": true,
+    "id": "e7cedf22-e611-468d-b992-6fcda9888ff3"
+  },
+  "0bf6e51b-7c51-442e-b2ce-9b9d7d8a6f0a": {
+    "symbol": "NSE:NIFTYBANK-INDEX",
+    "label": "BankNIFTY",
+    "enabled": true,
+    "id": "0bf6e51b-7c51-442e-b2ce-9b9d7d8a6f0a"
+  },
+  "d82307aa-0116-4eaa-88f6-d654d939aba1": {
+    "symbol": "NSE:FINNIFTY-INDEX",
+    "label": "FinNIFTY",
+    "enabled": true,
+    "id": "d82307aa-0116-4eaa-88f6-d654d939aba1"
+  },
+  "840c9fe6-b069-4745-97de-3f39119a1d52": {
+    "symbol": "NSE:MIDCPNIFTY-INDEX",
+    "label": "MidCPNIFTY",
+    "enabled": true,
+    "id": "840c9fe6-b069-4745-97de-3f39119a1d52"
+  },
+  "ddbc50ab-0e64-4407-80f9-14cde16e584c": {
+    "symbol": "BSE:SENSEX-INDEX",
+    "label": "SENSEX",
+    "enabled": true,
+    "id": "ddbc50ab-0e64-4407-80f9-14cde16e584c"
+  },
+  "c14a6c68-2220-48f7-a4a7-0e2ab4ea9290": {
+    "symbol": "BSE:BANKEX-INDEX",
+    "label": "BANKEX",
+    "enabled": false,
+    "id": "c14a6c68-2220-48f7-a4a7-0e2ab4ea9290"
+  },
+  "b120fd95-06f5-4167-bd5b-03378cc028a5": {
+    "symbol": "NSE:RELIANCE-EQ",
+    "label": "RELIANCE",
+    "enabled": false,
+    "id": "b120fd95-06f5-4167-bd5b-03378cc028a5"
+  },
+  "64194eef-fcb7-40cc-9a9c-a1d34131311c": {
+    "symbol": "NSE:HDFCBANK-EQ",
+    "label": "HDFCBANK",
+    "enabled": false,
+    "id": "64194eef-fcb7-40cc-9a9c-a1d34131311c"
+  },
+  "b02ee1c9-5ef2-4ef9-8cb2-033da99c965d": {
+    "symbol": "NSE:ICICIBANK-EQ",
+    "label": "ICICIBANK",
+    "enabled": false,
+    "id": "b02ee1c9-5ef2-4ef9-8cb2-033da99c965d"
+  },
+  "9f9c8271-5d69-4a84-989d-6663d499b62f": {
+    "symbol": "NSE:SBIN-EQ",
+    "label": "SBIN",
+    "enabled": false,
+    "id": "9f9c8271-5d69-4a84-989d-6663d499b62f"
+  },
+  "1d1e830e-7998-4ee0-a887-442944362bea": {
+    "symbol": "NSE:INFY-EQ",
+    "label": "INFY",
+    "enabled": false,
+    "id": "1d1e830e-7998-4ee0-a887-442944362bea"
+  },
+  "f8ca34a2-91ff-4707-81e8-476105d5823f": {
+    "symbol": "NSE:TCS-EQ",
+    "label": "TCS",
+    "enabled": false,
+    "id": "f8ca34a2-91ff-4707-81e8-476105d5823f"
+  },
+  "661604a4-09de-4319-9812-49a695c9975c": {
+    "symbol": "NSE:AXISBANK-EQ",
+    "label": "AXISBANK",
+    "enabled": false,
+    "id": "661604a4-09de-4319-9812-49a695c9975c"
+  },
+  "0ae6dbff-4521-4742-b15d-7e7a5dc7d776": {
+    "symbol": "NSE:BHARTIARTL-EQ",
+    "label": "BHARTIARTL",
+    "enabled": false,
+    "id": "0ae6dbff-4521-4742-b15d-7e7a5dc7d776"
+  },
+  "43626bec-bd7e-4b27-a170-c2ee22cf4f83": {
+    "symbol": "NSE:BAJFINANCE-EQ",
+    "label": "BAJFINANCE",
+    "enabled": false,
+    "id": "43626bec-bd7e-4b27-a170-c2ee22cf4f83"
+  },
+  "7f00b3a0-6746-4a9f-9468-03b63c2ee75d": {
+    "symbol": "NSE:LT-EQ",
+    "label": "LT",
+    "enabled": false,
+    "id": "7f00b3a0-6746-4a9f-9468-03b63c2ee75d"
+  }
+}
